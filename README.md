@@ -1,17 +1,17 @@
-<h1 align="center">🚀 Keshav Saini</h1>
-<h3 align="center">🧑‍🚀 Tech Enthusiast | Aspiring Software Developer | AI Explorer</h3>
+<h1 align="center">👋 Keshav Saini</h1>
+<h3 align="center">💻 Tech Enthusiast | Aspiring Software Developer | 🤖 AI Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 🌌 About Me
+## 🚀 About Me
 - 🎓 Student passionate about **technology & innovation**
 - 💻 Interested in **software development & modern tools**
 - 🤖 Exploring **AI, web & problem-solving**
-- 🚀 Always learning, always building
+- 🔥 Always learning, always building
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧑‍🚀 Current Mission
+## 🎯 Current Focus
 - 🚀 Build real-world projects  
 - 🧠 Strengthen logic & DSA  
 - ⚛️ Learn React & APIs  
@@ -58,9 +58,9 @@
 
 ---
 
-## 🌠 Space Mode
+## 👨‍💻 Coding Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="260"/>
 </p>
 
 ---
@@ -68,4 +68,4 @@
 ## 🌐 Connect
 - 🔗 GitHub: https://github.com/keshhav123  
 
-<p align="center"><i>Exploring code like the universe — limitless.</i> ✨</p>
+<p align="center"><i>Code. Learn. Repeat.</i> ⭐</p>
