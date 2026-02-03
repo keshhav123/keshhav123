@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Keshav Saini 👋</h1>
 <p align="center">
-🤖 AI Learner &nbsp;•&nbsp; 💻 Aspiring Software Developer &nbsp;•&nbsp; 🚀 Tech Enthusiast
+🤖 AI Learner &nbsp;•&nbsp; 🚀 Tech Enthusiast
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z1Z2R0NWx3Z2ZybzY4a2F2eDk0Y3h3a2k5dGJxNnZ0Z2p1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="320"/>
@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Profile
+## About me 
 I am a student with a growing interest in **artificial intelligence and software development**.  
 My focus is on building strong programming fundamentals, understanding modern technologies, and applying concepts through practical work.
 
@@ -26,7 +26,7 @@ My focus is on building strong programming fundamentals, understanding modern te
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### • Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
@@ -35,12 +35,12 @@ My focus is on building strong programming fundamentals, understanding modern te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
 </p>
 
-### 🌐 Web & Frameworks
+### • Web & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
 </p>
 
-### ⚙️ Tools & Database
+### • Tools & Database
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
@@ -51,14 +51,13 @@ My focus is on building strong programming fundamentals, understanding modern te
 ---
 
 ## 🎯 Current Focus
-- 📘 Strengthening core programming concepts  
-- 🤖 Learning Python for AI and automation  
-- 🌐 Building clean, functional web projects  
-- 🔍 Exploring real-world applications of AI  
+- ° Strengthening core programming concepts  
+- ° Learning Python for AI and automation  
+- ° Building clean, functional web projects  
+- ° Exploring real-world applications of AI  
 
 ---
 
-## 📊 Contribution Activity
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
