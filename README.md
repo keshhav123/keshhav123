@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Keshav Saini 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z1Z2R0NWx3Z2ZybzY4a2F2eDk0Y3h3a2k5dGJxNnZ0Z2p1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="320"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </p>
 
 ---
