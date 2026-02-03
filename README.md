@@ -10,13 +10,13 @@
 
 ---
 
-## About me 
+## ▫️About me 
 I am a student with a growing interest in **artificial intelligence and software development**.  
 My focus is on building strong programming fundamentals, understanding modern technologies, and applying concepts through practical work.
 
 ---
 
-## 🧠 Areas of Interest
+## ▫️Areas of Interest
 - 🤖 Artificial Intelligence & AI-assisted development  
 - 💻 Software engineering fundamentals  
 - 🌐 Web application development  
@@ -24,7 +24,7 @@ My focus is on building strong programming fundamentals, understanding modern te
 
 ---
 
-## 🛠️ Technical Skills
+## ▫️ Technical Skills
 
 ### • Programming Languages
 <p>
@@ -50,7 +50,7 @@ My focus is on building strong programming fundamentals, understanding modern te
 
 ---
 
-## 🎯 Current Focus
+## ▫️ Current Focus
 -  Strengthening core programming concepts  
 -  Learning Python for AI and automation  
 -  Building clean, functional web projects  
