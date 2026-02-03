@@ -43,6 +43,7 @@ My focus is on building strong programming fundamentals, understanding modern te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
   <img src="https://cdn.simpleicons.org/github/ffffff" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="36"/>
 </p>
 
 ---
