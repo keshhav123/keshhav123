@@ -51,10 +51,10 @@ My focus is on building strong programming fundamentals, understanding modern te
 ---
 
 ## 🎯 Current Focus
-- ° Strengthening core programming concepts  
-- ° Learning Python for AI and automation  
-- ° Building clean, functional web projects  
-- ° Exploring real-world applications of AI  
+-  Strengthening core programming concepts  
+-  Learning Python for AI and automation  
+-  Building clean, functional web projects  
+-  Exploring real-world applications of AI  
 
 ---
 
