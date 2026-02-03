@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=640&lines=Hi+there+👋;I'm+Keshav+Saini;Coding+the+Future+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Keshav+Saini+🚀" />
+</p>
 </p>
 
 <h1 align="center"> Hi there, I'm Keshav Saini 👋</h1>
