@@ -1,19 +1,26 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF4c3l5eXF4bnh6dDg1a2d6c2V2Y3M4d3N3cWZ2cHR0ZzF2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcguWZHRC2HyBRS/giphy.gif" width="320"/>
-</p>
 
-<h1 align="center">Keshav Saini</h1>
+
+<h1 align="center"> Hi there, I'm Keshav Saini 👋</h1>
 <p align="center">
-💻 Aspiring Software Developer &nbsp;•&nbsp; 🚀 Tech Enthusiast &nbsp;•&nbsp; 🤖 AI Learner
+🤖 AI Learner &nbsp;•&nbsp; 💻 Aspiring Software Developer &nbsp;•&nbsp; 🚀 Tech Enthusiast
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z1Z2R0NWx3Z2ZybzY4a2F2eDk0Y3h3a2k5dGJxNnZ0Z2p1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="320"/>
 </p>
 
 ---
 
-## 👋 About Me
-- 🎓 Student with a strong interest in **software development**
-- 🧠 Focused on building **clear concepts and clean logic**
-- ⚙️ Enjoy working with **modern tools and technologies**
-- 📚 Believe in learning by **practice and consistency**
+## 👋 Profile
+I am a student with a growing interest in **artificial intelligence and software development**.  
+My focus is on building strong programming fundamentals, understanding modern technologies, and applying concepts through practical work.
+
+---
+
+## 🧠 Areas of Interest
+- 🤖 Artificial Intelligence & AI-assisted development  
+- 💻 Software engineering fundamentals  
+- 🌐 Web application development  
+- 🧩 Logic building and problem solving  
 
 ---
 
@@ -44,10 +51,10 @@
 ---
 
 ## 🎯 Current Focus
-- 🚀 Strengthening programming fundamentals  
-- 🧩 Improving problem-solving skills  
-- 🌐 Learning modern web development  
-- 🤝 Growing through GitHub and projects  
+- 📘 Strengthening core programming concepts  
+- 🤖 Learning Python for AI and automation  
+- 🌐 Building clean, functional web projects  
+- 🔍 Exploring real-world applications of AI  
 
 ---
 
@@ -58,7 +65,4 @@
 
 ---
 
-## 🔗 Connect
-- 🌍 GitHub: https://github.com/keshhav123
-
-<p align="center"><i>Consistent learning. Continuous improvement.</i></p>
+<p align="center"><i>Learning, building, and improving — one step at a time.</i></p>
