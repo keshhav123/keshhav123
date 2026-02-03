@@ -1,71 +1,57 @@
-<h1 align="center">👋 Keshav Saini</h1>
-<h3 align="center">💻 Tech Enthusiast | Aspiring Software Developer | 🤖 AI Explorer</h3>
-
+<h1 align="center">Keshav Saini</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+Aspiring Software Developer • Tech Enthusiast • AI Learner
 </p>
 
----
+<hr/>
 
-## 🚀 About Me
-- 🎓 Student passionate about **technology & innovation**
-- 💻 Interested in **software development & modern tools**
-- 🤖 Exploring **AI, web & problem-solving**
-- 🔥 Always learning, always building
+## Profile
+I am a motivated student with a strong interest in software development and modern technologies.  
+I focus on building solid fundamentals, writing clean code, and continuously improving through practical projects.
 
 ---
 
-## 🛠️ Languages
+## Technical Skills
+
+### Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
 </p>
 
----
-
-## 🌐 Web & Frameworks
+### Frameworks & Web
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
 </p>
 
----
-
-## ⚙️ Tools & Database
+### Tools & Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## Areas of Focus
+- Core programming fundamentals  
+- Object-oriented design  
+- Problem solving and logic building  
+- Web application development  
+- Exploring AI-assisted development tools  
+
+---
+
+## Activity
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
-- 🚀 Build real-world projects  
-- 🧠 Strengthen logic & DSA  
-- ⚛️ Learn React & APIs  
-- 🌍 Grow as a developer  
-
----
-
-## 👨‍💻 Coding Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="260"/>
-</p>
-
----
-
-## 🌐 Connect
-- 🔗 GitHub: https://github.com/keshhav123  
-
-<p align="center"><i>Code. Learn. Repeat.</i> ⭐</p>
+## Contact
+- GitHub: https://github.com/keshhav123
