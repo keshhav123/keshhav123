@@ -1,53 +1,44 @@
-<h1 align="center">👋 Hi, I'm Keshav Saini</h1>
-<h3 align="center">🚀 Tech Enthusiast | 💻 Aspiring Software Developer | 🤖 AI Explorer</h3>
+<h1 align="center">🚀 Keshav Saini</h1>
+<h3 align="center">🧑‍🚀 Tech Enthusiast | Aspiring Software Developer | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🌌 About Me
 - 🎓 Student passionate about **technology & innovation**
-- 💻 Learning by building real-world projects
-- 🤖 Exploring **AI, Web & Software Development**
-- 🚀 Curious about modern tools & clean code
+- 💻 Interested in **software development & modern tools**
+- 🤖 Exploring **AI, web & problem-solving**
+- 🚀 Always learning, always building
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🧑‍💻 Languages
+## 🛠️ Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-</p>
-
-### 🌐 Web
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics (100% Working ✅)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshhav123&show_icons=true&theme=tokyonight&hide_border=false" height="170"/>
+## 🌐 Web & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshhav123&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
+---
+
+## ⚙️ Tools & Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 </p>
 
 ---
@@ -59,15 +50,22 @@
 
 ---
 
-## 🎯 Current Focus
-- 🚀 Building solid projects  
-- 🧠 Strengthening DSA & logic  
-- ⚛️ Learning React & APIs  
-- 🌍 Growing on GitHub  
+## 🧑‍🚀 Current Mission
+- 🚀 Build real-world projects  
+- 🧠 Strengthen logic & DSA  
+- ⚛️ Learn React & APIs  
+- 🌍 Grow as a developer  
 
 ---
 
-## 🌐 Connect With Me
+## 🌠 Space Mode
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="260"/>
+</p>
+
+---
+
+## 🌐 Connect
 - 🔗 GitHub: https://github.com/keshhav123  
 
-<p align="center"><i>“Code. Learn. Improve. Repeat.”</i> ⭐</p>
+<p align="center"><i>Exploring code like the universe — limitless.</i> ✨</p>
